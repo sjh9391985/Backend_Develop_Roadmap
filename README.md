@@ -5,3 +5,4 @@
   - <a href="https://velog.io/@sjh9391985/HTTP-%EB%9E%80">HTTP</a>
   - <a href="https://velog.io/@sjh9391985/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC">브라우저 작동원리</a>
   - <a href="https://velog.io/@sjh9391985/DNS">DNS</a>
+  - <a href="[https://velog.io/@sjh9391985/DNS](https://velog.io/@sjh9391985/%ED%98%B8%EC%8A%A4%ED%8C%85)">호스팅</a>
