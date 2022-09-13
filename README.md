@@ -7,7 +7,7 @@
   - <a href="https://velog.io/@sjh9391985/DNS">DNS</a>
 
 ### 2. 백엔드 언어
-  - JAVA
+  - <a href="https://www.w3schools.com/java/default.asp">JAVA</a>
   - JS 
   - C#
   - Python
