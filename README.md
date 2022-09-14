@@ -14,3 +14,6 @@
   - Go
   - PHP
   - Etc...
+  
+### 3. CS
+  - <a href="https://velog.io/@sjh9391985/Terminal">터미널 기본 명령어</a>
