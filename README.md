@@ -18,3 +18,4 @@
 ### 3. CS
   - <a href="https://velog.io/@sjh9391985/Terminal">터미널 기본 명령어</a>
   - <a href="https://velog.io/@sjh9391985/OS">운영체제 기본동작 원리</a>
+  - <a href="https://velog.io/@sjh9391985/%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%B3%91%EB%A0%AC%EC%84%B1">동시성, 병렬성</a>
