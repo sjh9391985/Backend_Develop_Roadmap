@@ -20,3 +20,4 @@
   - <a href="https://velog.io/@sjh9391985/OS">운영체제 기본동작 원리</a>
   - <a href="https://velog.io/@sjh9391985/%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%B3%91%EB%A0%AC%EC%84%B1">동시성, 병렬성</a>
   - <a href="https://velog.io/@sjh9391985/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%ED%86%B5%EC%8B%A0">프로세스 통신</a>
+  - <a href="https://velog.io/@sjh9391985/POSIX">POSIX</a>
