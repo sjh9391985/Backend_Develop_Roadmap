@@ -12,7 +12,6 @@
   - C#
   - Python
   - Go
-  - PHP
   - Etc...
   
 ### 3. CS
